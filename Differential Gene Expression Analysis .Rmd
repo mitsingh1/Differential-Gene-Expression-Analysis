@@ -4,6 +4,7 @@
 #### Dataset: GSE5583 (http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5583)
 #### Paper: Mol Cell Biol 2006 Nov;26(21):7913-28.
 #### PMID: 16940178 (http://www.ncbi.nlm.nih.gov/pubmed/16940178)
+#### Samples: 3 wild type + 3 histone deacytylase knockout (HDAC1 knockout)
 
 ##############################################################################
 
